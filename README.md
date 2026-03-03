@@ -1,2 +1,0 @@
-# Ansh
-My first file
